@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1659356543720,4758,GET Activities,200,OK,Activities 1-1,text,true,,3044,184,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities,4739,0,4491
+1659356543977,4560,GET Activities,200,OK,Activities 1-2,text,true,,3041,184,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities,4560,0,4332
+1659356548487,222,POST Activities,200,OK,Activities 1-1,text,true,,274,307,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities,221,0,0
+1659356548538,212,POST Activities,200,OK,Activities 1-2,text,true,,274,307,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities,212,0,0
+1659356548709,212,GET Activities by Id,200,OK,Activities 1-1,text,true,,287,186,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,212,0,0
+1659356548750,213,GET Activities by Id,200,OK,Activities 1-2,text,true,,288,186,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,212,0,0
+1659356548922,217,UPDATE Activities,200,OK,Activities 1-1,text,true,,274,308,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,217,0,0
+1659356548963,222,UPDATE Activities,200,OK,Activities 1-2,text,true,,274,308,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,222,0,0
+1659356549141,852,DELETE Activities,200,OK,Activities 1-1,,true,,121,208,2,2,http://fakerestapi.azurewebsites.net/api/v1/Activities/3,852,0,204
+1659356549187,865,DELETE Activities,200,OK,Activities 1-2,,true,,121,208,1,1,http://fakerestapi.azurewebsites.net/api/v1/Activities/3,865,0,203

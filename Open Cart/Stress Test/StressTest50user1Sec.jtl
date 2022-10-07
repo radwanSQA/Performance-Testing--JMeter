@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1659957951455,15018,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Home Page 1-33,text,false,,2820,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15017
+1659957951184,15378,Home Page,200,OK,Home Page 1-20,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15366,0,14563
+1659957951679,14883,Home Page,200,OK,Home Page 1-44,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,14867,0,14054
+1659957951010,15554,Home Page,200,OK,Home Page 1-1,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15535,0,14729
+1659957951307,15441,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Home Page 1-27,text,false,,2820,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15440
+1659957951019,15731,Home Page,200,OK,Home Page 1-11,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15727,0,14734
+1659957951347,15420,Home Page,200,OK,Home Page 1-28,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15415,0,14406
+1659957951128,15656,Home Page,200,OK,Home Page 1-16,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15653,0,14632
+1659957951009,15818,Home Page,200,OK,Home Page 1-6,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15816,0,14732
+1659957951743,15226,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-48,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15222
+1659957951499,15474,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-36,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15469
+1659957951423,15563,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-32,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15562
+1659957951583,15412,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-40,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15411
+1659957951652,15344,Home Page,200,OK,Home Page 1-42,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15305,0,14340
+1659957951252,15751,Home Page,200,OK,Home Page 1-24,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15747,0,14488
+1659957951288,15745,Home Page,200,OK,Home Page 1-26,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15718,0,14650
+1659957951405,15635,Home Page,200,OK,Home Page 1-30,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15631,0,14574
+1659957951715,15436,Home Page,200,OK,Home Page 1-46,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15434,0,14243
+1659957951461,15722,Home Page,200,OK,Home Page 1-34,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15719,0,14507
+1659957951130,16078,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-17,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16077
+1659957951007,16200,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-4,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16199
+1659957951009,16209,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-9,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16208
+1659957951205,16014,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Home Page 1-21,text,false,,2820,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16014
+1659957951269,15960,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-25,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15959
+1659957951602,15636,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-41,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15635
+1659957951770,15475,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-49,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15472
+1659957951525,15737,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-37,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15727
+1659957951074,16200,Home Page,200,OK,Home Page 1-14,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,16190,0,14870
+1659957951010,16264,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-10,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16263
+1659957951008,16294,Home Page,200,OK,Home Page 1-8,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,16268,0,14998
+1659957951041,16317,Home Page,200,OK,Home Page 1-12,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,16313,0,14973
+1659957951055,16327,Home Page,200,OK,Home Page 1-13,text,true,,22589,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,16324,0,14975
+1659957951221,16195,Home Page,200,OK,Home Page 1-22,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,16192,0,14812
+1659957951543,15888,Home Page,200,OK,Home Page 1-38,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,15885,0,14503
+1659957951094,16456,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Home Page 1-15,text,false,,2820,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16456
+1659957951559,15990,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-39,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15989
+1659957951411,16145,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-31,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16144
+1659957951171,16385,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-19,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16384
+1659957951008,16555,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-7,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16554
+1659957951006,16563,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-5,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16562
+1659957951790,15789,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-50,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,15787
+1659957951480,16103,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-35,text,false,,2087,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16102
+1659957951149,16474,Home Page,200,OK,Home Page 1-18,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,16427,0,14904
+1659957966565,1063,Tablet Page,200,OK,Home Page 1-1,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1059,0,0
+1659957966564,1076,Tablet Page,200,OK,Home Page 1-20,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1064,0,0
+1659957966564,1082,Tablet Page,200,OK,Home Page 1-44,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1078,0,0
+1659957966749,1076,Tablet Page,200,OK,Home Page 1-11,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1073,0,0
+1659957966767,1069,Tablet Page,200,OK,Home Page 1-28,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1067,0,0
+1659957966783,1076,Tablet Page,200,OK,Home Page 1-16,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1073,0,0
+1659957966995,881,Tablet Page,200,OK,Home Page 1-42,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,880,0,0
+1659957966827,1094,Tablet Page,200,OK,Home Page 1-6,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1065,0,0
+1659957967033,1060,Tablet Page,200,OK,Home Page 1-26,text,true,,22597,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1044,0,0
+1659957967002,1121,Tablet Page,200,OK,Home Page 1-24,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1090,0,0
+1659957967040,1088,Tablet Page,200,OK,Home Page 1-30,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1086,0,0
+1659957967151,1008,Tablet Page,200,OK,Home Page 1-46,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1003,0,0
+1659957967183,983,Tablet Page,200,OK,Home Page 1-34,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,976,0,0
+1659957967273,1057,Tablet Page,200,OK,Home Page 1-14,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1055,0,0
+1659957967302,1042,Tablet Page,200,OK,Home Page 1-8,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1040,0,0
+1659957967381,995,Tablet Page,200,OK,Home Page 1-13,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,993,0,0
+1659957967357,1036,Tablet Page,200,OK,Home Page 1-12,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1035,0,0
+1659957967416,987,Tablet Page,200,OK,Home Page 1-22,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,984,0,0
+1659957951688,16874,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Software caused connection abort: socket write error,Home Page 1-45,text,false,,3374,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,16874
+1659957951363,17199,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Software caused connection abort: socket write error,Home Page 1-29,text,false,,3374,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,17199
+1659957967641,923,Cart Page,200,OK,Home Page 1-20,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,922,0,0
+1659957951009,17556,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Software caused connection abort: socket write error,Home Page 1-2,text,false,,3486,0,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,17555
+1659957967629,938,Cart Page,200,OK,Home Page 1-1,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,935,0,0
+1659957967648,945,Cart Page,200,OK,Home Page 1-44,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,944,0,0
+1659957967431,1176,Tablet Page,200,OK,Home Page 1-38,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,1173,0,0
+1659957967622,992,Tablet Page,200,OK,Home Page 1-18,text,true,,22590,177,50,50,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,984,0,0
+1659957967826,930,Cart Page,200,OK,Home Page 1-11,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,928,0,0
+1659957967837,926,Cart Page,200,OK,Home Page 1-28,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,925,0,0
+1659957967877,932,Cart Page,200,OK,Home Page 1-42,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,931,0,0
+1659957967859,958,Cart Page,200,OK,Home Page 1-16,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,956,0,0
+1659957967922,902,Cart Page,200,OK,Home Page 1-6,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,901,0,0
+1659957968094,838,Cart Page,200,OK,Home Page 1-26,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,837,0,0
+1659957968128,825,Cart Page,200,OK,Home Page 1-30,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,824,0,0
+1659957968167,852,Cart Page,200,OK,Home Page 1-34,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,851,0,0
+1659957968124,898,Cart Page,200,OK,Home Page 1-24,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,896,0,0
+1659957968159,891,Cart Page,200,OK,Home Page 1-46,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,890,0,0
+1659957968345,801,Cart Page,200,OK,Home Page 1-8,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,800,0,0
+1659957968330,823,Cart Page,200,OK,Home Page 1-14,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,822,0,0
+1659957968394,819,Cart Page,200,OK,Home Page 1-12,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,818,0,0
+1659957968377,839,Cart Page,200,OK,Home Page 1-13,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,838,0,0
+1659957968403,856,Cart Page,200,OK,Home Page 1-22,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,855,0,0
+1659957968567,759,Checkout Page,200,OK,Home Page 1-1,text,true,,15380,166,50,50,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,758,0,0
+1659957968565,771,Checkout Page,200,OK,Home Page 1-20,text,true,,15380,166,49,49,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,770,0,0
+1659957968593,799,Checkout Page,200,OK,Home Page 1-44,text,true,,15380,166,48,48,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,799,0,0
+1659957968608,813,Cart Page,200,OK,Home Page 1-38,text,true,,15380,166,47,47,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,812,0,0
+1659957968614,863,Cart Page,200,OK,Home Page 1-18,text,true,,15380,166,47,47,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,863,0,0
+1659957968764,779,Checkout Page,200,OK,Home Page 1-28,text,true,,15380,166,47,47,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,778,0,0
+1659957968756,791,Checkout Page,200,OK,Home Page 1-11,text,true,,15380,166,46,46,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,791,0,0
+1659957968810,783,Checkout Page,200,OK,Home Page 1-42,text,true,,15380,166,45,45,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,782,0,0
+1659957968817,798,Checkout Page,200,OK,Home Page 1-16,text,true,,15380,166,44,44,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,797,0,0
+1659957968824,856,Checkout Page,200,OK,Home Page 1-6,text,true,,15380,166,43,43,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,855,0,0
+1659957968933,797,Checkout Page,200,OK,Home Page 1-26,text,true,,15380,166,42,42,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,795,0,0
+1659957968953,797,Checkout Page,200,OK,Home Page 1-30,text,true,,15380,166,41,41,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,794,0,0
+1659957969019,792,Checkout Page,200,OK,Home Page 1-34,text,true,,15380,166,40,40,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,791,0,0
+1659957969023,789,Checkout Page,200,OK,Home Page 1-24,text,true,,15380,166,40,40,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,788,0,0
+1659957969051,824,Checkout Page,200,OK,Home Page 1-46,text,true,,15389,166,38,38,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,824,0,0
+1659957969154,787,Checkout Page,200,OK,Home Page 1-14,text,true,,15380,166,37,37,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,786,0,0
+1659957969147,801,Checkout Page,200,OK,Home Page 1-8,text,true,,15380,166,36,36,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,800,0,0
+1659957969216,789,Checkout Page,200,OK,Home Page 1-13,text,true,,15380,166,35,35,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,787,0,0
+1659957969214,794,Checkout Page,200,OK,Home Page 1-12,text,true,,15380,166,34,34,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,793,0,0
+1659957969421,657,Checkout Page,200,OK,Home Page 1-38,text,true,,15380,166,33,33,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,656,0,0
+1659957969259,838,Checkout Page,200,OK,Home Page 1-22,text,true,,15380,166,32,32,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,832,0,0
+1659957969478,912,Checkout Page,200,OK,Home Page 1-18,text,true,,15388,166,31,31,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,907,0,0
+1659957951009,19386,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-3,text,false,,2087,0,30,30,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,19385
+1659957951241,19157,Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: demo.opencart.com:443 failed to respond,Home Page 1-23,text,false,,2087,0,30,30,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,19155
+1659957951672,18732,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Software caused connection abort: socket write error,Home Page 1-43,text,false,,3374,0,30,30,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,18732
+1659957951723,18682,Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Software caused connection abort: socket write error,Home Page 1-47,text,false,,3486,0,30,30,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,0,0,18682
+1659957966748,8840,Tablet Page,200,OK,Home Page 1-27,text,true,,22590,177,30,30,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,8839,0,8557
+1659957975588,322,Cart Page,200,OK,Home Page 1-27,text,true,,15380,166,30,30,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,320,0,0
+1659957967208,8711,Tablet Page,200,OK,Home Page 1-17,text,true,,22590,177,30,30,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,8709,0,8360
+1659957966973,8971,Tablet Page,200,OK,Home Page 1-36,text,true,,22590,177,30,30,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,8969,0,8590
+1659957975911,307,Checkout Page,200,OK,Home Page 1-27,text,true,,15380,166,30,30,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,306,0,0
+1659957975919,317,Cart Page,200,OK,Home Page 1-17,text,true,,15380,166,29,29,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,316,0,0
+1659957975945,312,Cart Page,200,OK,Home Page 1-36,text,true,,15380,166,29,29,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,311,0,0
+1659957976237,302,Checkout Page,200,OK,Home Page 1-17,text,true,,15380,166,29,29,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,294,0,0
+1659957976257,313,Checkout Page,200,OK,Home Page 1-36,text,true,,15389,166,28,28,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,299,0,0
+1659957966995,10378,Tablet Page,200,OK,Home Page 1-40,text,true,,22590,177,27,27,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,10377,0,10097
+1659957977374,267,Cart Page,200,OK,Home Page 1-40,text,true,,15380,166,27,27,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,264,0,0
+1659957967274,10636,Tablet Page,200,OK,Home Page 1-10,text,true,,22590,177,27,27,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,10635,0,10271
+1659957967556,10362,Tablet Page,200,OK,Home Page 1-19,text,true,,22590,177,27,27,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,10361,0,9988
+1659957967229,10692,Tablet Page,200,OK,Home Page 1-25,text,true,,22590,177,27,27,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,10691,0,10312
+1659957966969,11096,Tablet Page,200,OK,Home Page 1-48,text,true,,22590,177,27,27,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11095,0,10673
+1659957967583,10485,Tablet Page,200,OK,Home Page 1-35,text,true,,22590,177,27,27,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,10484,0,9966
+1659957970406,7663,Tablet Page,200,OK,Home Page 1-47,text,true,,22590,177,27,27,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,7663,0,7154
+1659957977641,468,Checkout Page,200,OK,Home Page 1-40,text,true,,15380,166,27,27,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,467,0,0
+1659957977911,379,Cart Page,200,OK,Home Page 1-10,text,true,,15380,166,26,26,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,376,0,0
+1659957977919,374,Cart Page,200,OK,Home Page 1-19,text,true,,15380,166,26,26,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,372,0,0
+1659957977922,372,Cart Page,200,OK,Home Page 1-25,text,true,,15380,166,26,26,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,371,0,0
+1659957978066,343,Cart Page,200,OK,Home Page 1-48,text,true,,15380,166,26,26,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,343,0,0
+1659957978069,341,Cart Page,200,OK,Home Page 1-35,text,true,,15380,166,26,26,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,340,0,0
+1659957978070,341,Cart Page,200,OK,Home Page 1-47,text,true,,15380,166,26,26,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,340,0,0
+1659957967553,11020,Tablet Page,200,OK,Home Page 1-39,text,true,,22590,177,26,26,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11018,0,10637
+1659957967245,11329,Tablet Page,200,OK,Home Page 1-49,text,true,,22590,177,26,26,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11329,0,10935
+1659957967570,11021,Tablet Page,200,OK,Home Page 1-5,text,true,,22590,177,26,26,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11018,0,10633
+1659957968565,10208,Tablet Page,200,OK,Home Page 1-2,text,true,,22590,177,26,26,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,10204,0,9727
+1659957970398,8390,Tablet Page,200,OK,Home Page 1-23,text,true,,22590,177,26,26,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,8389,0,7849
+1659957968562,10231,Tablet Page,200,OK,Home Page 1-29,text,true,,22590,177,26,26,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,10227,0,9656
+1659957967221,11586,Tablet Page,200,OK,Home Page 1-21,text,true,,22590,177,26,26,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11585,0,10964
+1659957978291,625,Checkout Page,200,OK,Home Page 1-10,text,true,,15380,166,26,26,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,624,0,0
+1659957967263,11730,Tablet Page,200,OK,Home Page 1-37,text,true,,22590,177,25,25,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11729,0,11007
+1659957967556,11456,Tablet Page,200,OK,Home Page 1-31,text,true,,22590,177,25,25,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11454,0,10718
+1659957967219,11798,Tablet Page,200,OK,Home Page 1-9,text,true,,22590,177,25,25,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11796,0,11039
+1659957978294,780,Checkout Page,200,OK,Home Page 1-25,text,true,,15388,166,25,25,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,777,0,0
+1659957978293,847,Checkout Page,200,OK,Home Page 1-19,text,true,,15380,166,24,24,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,846,0,0
+1659957978410,808,Checkout Page,200,OK,Home Page 1-48,text,true,,15380,166,23,23,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,806,0,0
+1659957967578,11658,Tablet Page,200,OK,Home Page 1-50,text,true,,22590,177,22,22,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,11657,0,10709
+1659957970404,8835,Tablet Page,200,OK,Home Page 1-43,text,true,,22590,177,22,22,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,8834,0,7907
+1659957978410,870,Checkout Page,200,OK,Home Page 1-35,text,true,,15380,166,22,22,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,869,0,0
+1659957978412,953,Checkout Page,200,OK,Home Page 1-47,text,true,,15380,166,21,21,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,952,0,0
+1659957978575,816,Cart Page,200,OK,Home Page 1-49,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,815,0,0
+1659957978574,880,Cart Page,200,OK,Home Page 1-39,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,853,0,0
+1659957978592,865,Cart Page,200,OK,Home Page 1-5,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,865,0,0
+1659957978774,751,Cart Page,200,OK,Home Page 1-2,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,750,0,0
+1659957978789,770,Cart Page,200,OK,Home Page 1-23,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,769,0,0
+1659957978794,800,Cart Page,200,OK,Home Page 1-29,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,800,0,0
+1659957978807,823,Cart Page,200,OK,Home Page 1-21,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,823,0,0
+1659957978994,684,Cart Page,200,OK,Home Page 1-37,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,684,0,0
+1659957979012,725,Cart Page,200,OK,Home Page 1-31,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,724,0,0
+1659957979017,785,Cart Page,200,OK,Home Page 1-9,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,784,0,0
+1659957979237,573,Cart Page,200,OK,Home Page 1-50,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,572,0,0
+1659957979239,599,Cart Page,200,OK,Home Page 1-43,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,598,0,0
+1659957979391,521,Checkout Page,200,OK,Home Page 1-49,text,true,,15380,166,20,20,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,520,0,0
+1659957967238,12784,Tablet Page,200,OK,Home Page 1-41,text,true,,22590,177,19,19,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,12783,0,12211
+1659957967210,12871,Tablet Page,200,OK,Home Page 1-4,text,true,,22590,177,19,19,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,12869,0,12226
+1659957967551,12543,Tablet Page,200,OK,Home Page 1-15,text,true,,22590,177,19,19,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,12539,0,11894
+1659957966479,13648,Tablet Page,200,OK,Home Page 1-33,text,true,,22590,177,19,19,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,13646,0,12955
+1659957967563,12623,Tablet Page,200,OK,Home Page 1-7,text,true,,22597,177,19,19,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,12622,0,11890
+1659957979458,782,Checkout Page,200,OK,Home Page 1-5,text,true,,15380,166,19,19,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,782,0,0
+1659957979525,769,Checkout Page,200,OK,Home Page 1-2,text,true,,15380,166,18,18,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,768,0,0
+1659957979560,771,Checkout Page,200,OK,Home Page 1-23,text,true,,15380,166,17,17,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,770,0,0
+1659957970398,9966,Tablet Page,200,OK,Home Page 1-3,text,true,,22597,177,16,16,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,9965,0,9069
+1659957979595,781,Checkout Page,200,OK,Home Page 1-29,text,true,,15380,166,16,16,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,778,0,0
+1659957979631,820,Checkout Page,200,OK,Home Page 1-21,text,true,,15380,166,15,15,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,813,0,0
+1659957979679,802,Checkout Page,200,OK,Home Page 1-37,text,true,,15380,166,14,14,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,801,0,0
+1659957979738,794,Checkout Page,200,OK,Home Page 1-31,text,true,,15380,166,13,13,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,793,0,0
+1659957979802,741,Checkout Page,200,OK,Home Page 1-9,text,true,,15388,166,12,12,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,740,0,0
+1659957979810,787,Checkout Page,200,OK,Home Page 1-50,text,true,,15380,166,11,11,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,786,0,0
+1659957979838,769,Checkout Page,200,OK,Home Page 1-43,text,true,,15380,166,10,10,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,768,0,0
+1659957966986,13750,Tablet Page,200,OK,Home Page 1-32,text,true,,22590,177,9,9,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,13747,0,12450
+1659957979455,1309,Checkout Page,200,OK,Home Page 1-39,text,true,,15380,166,9,9,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,1307,0,0
+1659957968562,12247,Tablet Page,200,OK,Home Page 1-45,text,true,,22590,177,8,8,https://demo.opencart.com/index.php?route=product/category&language=en-gb&path=57,12246,0,10895
+1659957980022,792,Cart Page,200,OK,Home Page 1-41,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,791,0,0
+1659957980081,769,Cart Page,200,OK,Home Page 1-4,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,767,0,0
+1659957980127,797,Cart Page,200,OK,Home Page 1-33,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,784,0,0
+1659957980094,832,Cart Page,200,OK,Home Page 1-15,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,830,0,0
+1659957980365,567,Cart Page,200,OK,Home Page 1-3,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,567,0,0
+1659957980187,747,Cart Page,200,OK,Home Page 1-7,text,true,,15388,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,745,0,0
+1659957980736,250,Cart Page,200,OK,Home Page 1-32,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,249,0,0
+1659957980810,338,Cart Page,200,OK,Home Page 1-45,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,337,0,0
+1659957980814,345,Checkout Page,200,OK,Home Page 1-41,text,true,,15380,166,8,8,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,344,0,0
+1659957980850,326,Checkout Page,200,OK,Home Page 1-4,text,true,,15380,166,7,7,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,324,0,0
+1659957980925,400,Checkout Page,200,OK,Home Page 1-33,text,true,,15380,166,6,6,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,399,0,0
+1659957980927,400,Checkout Page,200,OK,Home Page 1-15,text,true,,15380,166,5,5,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,399,0,0
+1659957980934,401,Checkout Page,200,OK,Home Page 1-7,text,true,,15388,166,4,4,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,400,0,0
+1659957980933,410,Checkout Page,200,OK,Home Page 1-3,text,true,,15380,166,3,3,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,409,0,0
+1659957980986,370,Checkout Page,200,OK,Home Page 1-32,text,true,,15380,166,2,2,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,369,0,0
+1659957981148,271,Checkout Page,200,OK,Home Page 1-45,text,true,,15380,166,1,1,https://demo.opencart.com/index.php?route=checkout/cart&language=en-gb,270,0,0

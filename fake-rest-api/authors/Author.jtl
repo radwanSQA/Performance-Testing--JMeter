@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1659426865390,2465,GET Author,400,Bad Request,Author 1-2,,false,Test failed: code expected to contain /200/,103,184,2,2,https://fakerestapi.azurewebsites.net/api/v1/Authors,2461,0,2244
+1659426865038,2942,GET Author,400,Bad Request,Author 1-1,,false,Test failed: code expected to contain /200/,103,184,2,2,https://fakerestapi.azurewebsites.net/api/v1/Authors,2942,0,2738
+1659426867858,1079,POST Author,400,Bad Request,Author 1-2,,false,Test failed: code expected to contain /200/,103,287,2,2,https://fakerestapi.azurewebsites.net/api/v1/Authors,1079,0,872
+1659426867982,1207,POST Author,400,Bad Request,Author 1-1,,false,Test failed: code expected to contain /200/,103,287,2,2,https://fakerestapi.azurewebsites.net/api/v1/Authors,1207,0,1002
+1659426868938,1092,GET Author by Id,400,Bad Request,Author 1-2,,false,Test failed: code expected to contain /200/,103,189,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,1092,0,889
+1659426869190,1124,GET Author by Id,400,Bad Request,Author 1-1,,false,Test failed: code expected to contain /200/,103,189,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,1124,0,919
+1659426870032,1076,UPDATE Author,400,Bad Request,Author 1-2,,false,Test failed: code expected to contain /200/,103,311,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,1076,0,872
+1659426870314,1113,UPDATE Author,400,Bad Request,Author 1-1,,false,Test failed: code expected to contain /200/,103,311,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,1113,0,903
+1659426871109,754,DELETE Author,400,Bad Request,Author 1-2,,false,Test failed: code expected to contain /200/,103,211,2,2,http://fakerestapi.azurewebsites.net/api/v1/Activities/3,754,0,205
+1659426871428,694,DELETE Author,400,Bad Request,Author 1-1,,false,Test failed: code expected to contain /200/,103,211,1,1,http://fakerestapi.azurewebsites.net/api/v1/Activities/3,694,0,202
